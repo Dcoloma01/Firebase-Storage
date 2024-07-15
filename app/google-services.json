@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77221584932",
+    "project_id": "android-firebase-eb115",
+    "storage_bucket": "android-firebase-eb115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77221584932:android:e29dcd3f23d96d29f378b1",
+        "android_client_info": {
+          "package_name": "com.dylan.android_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIClq8N-ZapAKoRBeo1cuOcCoHFYhIEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
